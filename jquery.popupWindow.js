@@ -1,3 +1,6 @@
+/**
+ * jquery.popupWindow.js https://github.com/vinicius73/popup-window
+ */
 ;(function ($) {
     $.fn.popupWindow = function (instanceSettings) {
         var instanceSettings = instanceSettings;
